@@ -1,0 +1,282 @@
+label;id
+Plant Operations and Management;0
+Business Solutions;1
+Business Strategy;2
+Genetics;3
+Other Programming Languages;4
+Agricultural Management and Operations;5
+JavaScript and jQuery;6
+Robotics;7
+Legal Proceedings;8
+Online Advertising;9
+Litigation and Civil Justice;10
+Search Engines;11
+Networking Hardware;12
+Internal Controls;13
+Basic Customer Service;14
+Mental Health Diseases and Disorders;15
+Engineering Management;16
+Immunology;17
+General Medical Tests and Procedures;18
+Intelligence Collection and Analysis;19
+Infectious Diseases;20
+Administrative Support;21
+Patient Education and Support;22
+Medical Imaging;23
+Engineering Software;24
+Machine Tools;25
+Quality Assurance and Control;26
+Literature and Literary Studies;27
+Java;28
+Personal Attributes;29
+Alternative Therapy;30
+Data Analysis;31
+Science Software;32
+Audio Production and Technology;33
+Scripting;34
+Software Development Tools;35
+Obstetrics and Gynecology (OBGYN);36
+Biology;37
+Procurement;38
+Construction Painting;39
+Industry Specific Marketing;40
+Clean Energy;41
+Data Visualization;42
+Environment and Resource Management;43
+Financial Regulation;44
+Logistics;45
+Air Transportation;46
+Aerospace Engineering;47
+Image Analysis;48
+Basic Computer Knowledge;49
+Optical Engineering;50
+Data Management;51
+System Design and Implementation;52
+Journalism;53
+Vehicle Repair and Maintenance;54
+Materials Science and Engineering;55
+Industrial Design;56
+Climate Change;57
+Product Management;58
+Database Administration;59
+Marketing Management;60
+Manufacturing Processes;61
+Supply Chain Management;62
+Systems Administration;63
+Teaching;64
+E-Commerce;65
+Physical Therapy;66
+Pediatrics;67
+Coaching and Athletic Training;68
+Textiles;69
+Project Management;70
+Art and Illustration;71
+Roofing;72
+Advertising;73
+Contract Management;74
+Graphic and Visual Design;75
+Medical Science and Research;76
+Marketing Strategy;77
+Performance Management;78
+Business Intelligence Software;79
+Presentation Design;80
+Emergency Services;81
+Urology;82
+Banking Services;83
+Pathology;84
+Talent Management;85
+Instructional and Curriculum Design;86
+Clinical Trials;87
+Lean Manufacturing;88
+Electrical Power;89
+Construction Estimating;90
+Web Services;91
+Investment Management;92
+Distributed Computing;93
+Human Resources Software;94
+Market Analysis;95
+Employee Training;96
+Public Relations;97
+Software Quality Assurance;98
+Genetic Disorders;99
+Financial Reporting;100
+Pharmacy;101
+Anesthesiology;102
+Mobile Development;103
+Integrated Development Environments (IDEs);104
+PHP;105
+Process Improvement and Optimization;106
+Basic Patient Care;107
+Surgery;108
+Social Studies;109
+Scripting Languages;110
+Emergency and Intensive Care;111
+Chemical and Biomedical Engineering;112
+Signal Processing;113
+Tax;114
+General Lending;115
+SAP;116
+Office Management;117
+Molecular, Cellular, and Microbiology;118
+Digital Design;119
+Policy Analysis, Research, and Development;120
+Natural Language Processing (NLP);121
+Automation Engineering;122
+Database Management Systems;123
+Pharmacology and Drug Discovery;124
+Query Languages;125
+Speech Language Pathology;126
+Earth and Space Science;127
+General Medicine;128
+Law Enforcement and Criminal Justice;129
+Business Intelligence;130
+Statistics;131
+Simulation and Simulation Software;132
+Urban and Regional Planning;133
+Ecology;134
+Enterprise Information Management;135
+Financial Risk Management;136
+nan;137
+Computer Hardware;138
+Photo/Video Production and Technology;139
+Cloud Solutions;140
+Government Assistance;141
+Research Methodology;142
+Community and Social Work;143
+Test Automation;144
+Version Control;145
+Food Science and Processing;146
+Writing and Editing;147
+Health Care Administration;148
+Business Analysis;149
+Customer Relationship Management (CRM);150
+Neuroscience;151
+General Repairs and Maintenance;152
+Health Information Management and Medical Records;153
+Higher Education;154
+Content Development and Management;155
+Architectural Design;156
+Construction Management;157
+Collaborative Software;158
+Mental and Behavioral Health Specialties;159
+Education Software and Technology;160
+Imaging;161
+Chemistry;162
+Music;163
+Public Health and Disease Prevention;164
+Store Management;165
+Travel Planning;166
+Web Design and Development;167
+Fundraising and Crowdsourcing;168
+Mechanical Engineering;169
+Neurology;170
+Computer Science;171
+Business Operations;172
+First Aid;173
+Financial Modeling;174
+Business Consulting;175
+Mathematics and Mathematical Modeling;176
+Physical Abilities;177
+Web Analytics;178
+Theatre and Performance Art;179
+Drafting and Engineering Design;180
+Production and Assembly;181
+Animation and Game Design;182
+Social Awareness;183
+Crop Farming;184
+Gastroenterology;185
+General Administrative and Clerical Tasks;186
+Office and Productivity Software;187
+Training Programs;188
+General Networking;189
+General Sales Practices;190
+Medical Equipment and Technology;191
+Water Supply, Testing, and Treatment;192
+Mental Health Therapies;193
+Firmware;194
+Data Collection;195
+Program Management;196
+Artificial Intelligence and Machine Learning (AI/ML);197
+Media Production;198
+Business Leadership;199
+Servers;200
+Agile Software Development;201
+Education Administration;202
+Health Care Procedure and Regulation;203
+Budget Management;204
+Human Resources Management and Planning;205
+User Interface and User Experience (UI/UX) Design;206
+Language Interpretation and Translation;207
+Graphic and Visual Design Software;208
+Software Development;209
+Operating Systems;210
+Communication;211
+Childhood Education and Development;212
+Food and Beverage;213
+Social Media;214
+Economics;215
+Content Management Systems;216
+Electronic Trading;217
+Mathematical Software;218
+Language Teaching;219
+Electronics Engineering;220
+Special Education;221
+Biotechnology;222
+Civil and Architectural Engineering;223
+Recruitment;224
+Engineering Practices;225
+Property Law;226
+Business Communications;227
+Electrical and Computer Engineering;228
+Cardiology;229
+Geospatial Information and Technology;230
+People Management;231
+Structured Finance;232
+Language Study;233
+Online Marketing;234
+Business Management;235
+Databases;236
+Child Care;237
+Bioinformatics;238
+Micro Manufacturing;239
+Networking Software;240
+Financial Analysis;241
+Language Competency;242
+Oncology;243
+Circuitry;244
+Sports and Recreation;245
+Data Storage;246
+General Accounting;247
+Dance;248
+Microsoft Development Tools;249
+Physics;250
+Vituralization and Virtual Machines;251
+Apache;252
+Criminal Investigation and Forensics;253
+Network Protocols;254
+Statistical Software;255
+Laboratory Research;256
+Problem Solving;257
+Cybersecurity;258
+Telecommunications;259
+Agricultural Research and Agronomy;260
+Tourism Services and Attractions;261
+Promotions and Campaigns;262
+Financial Trading;263
+Enterprise Application Integration;264
+Cloud Computing;265
+Energy Management;266
+Animal Care;267
+Events and Conferences;268
+Initiative and Leadership;269
+Document Management;270
+Financial Management;271
+Creative Design;272
+Employee Relations;273
+Data Science;274
+C and C++;275
+Microsoft Windows;276
+Nutrition and Diet;277
+Advanced Patient Care;278
+Product Development;279
+IT Automation;280
