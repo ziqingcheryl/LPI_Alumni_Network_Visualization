@@ -51,3 +51,6 @@ We can also have the skillset hierarchy.
    - then use PCA, tSNE to visualize ****************UMAP
    - use skill hierarchy to form distance between subjects and see how it differs from LPI to see interdisciplinarity.
 - Build user profile for the cluster with some skillset.
+
+## Presentation
+Please refer to the report
